@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">xTension</string>
+    <string name="tabInstall">Информация</string>
+    <string name="tabModules">Модули</string>
+    <string name="tabOnline">Онлайн</string>
+    <string name="installerDescription">Тут Вы можете посмотореть статус фрейворка <b>xTension</b>. Фреймворк является основой для модулей, которые могут изменить поведение и внешний вид телефона MIUI</string>
+    <string name="installedVersion">установлено</string>
+    <string name="none">---</string>
+    <string name="latestVersion">встроено</string>
+    <string name="versions">Версии</string>
+    <string name="module_is_not_activated_yet">Добавлен модуль xTension</string>
+    <string name="module_empty_description">(нет описания)</string>
+    <string name="module_no_ui">Этот модуль не имеет настроек</string>
+    <string name="no_xposed_modules_found">Нет модулей xTension!</string>
+    <string name="xposed_module_list_updated">"Список модулей xTension обновлен
+Изменения будут доступны после перезагрузки"</string>
+    <string name="no_min_version_specified">Этот модуль не содержит информации о минимальной версии xTension</string>
+    <string name="warning_min_version_too_low">Этот модуль создан для xTension версии %1$s, но из-за несовместимости с версией %2$s, был отключен</string>
+    <string name="translator">KDev Group</string>
+    <string name="icon_desc">Icon</string>
+    <string name="btn_settings">Настройки</string>
+    <string name="system">(Системный)</string>
+    <string name="module_settings">Настройки модуля</string>
+    <string name="module_cannot_configue">Невозможно изменить настройки системных модулей</string>
+    <string name="btnDeleteModule">Удалить модуль</string>
+    <string name="activate_title">Активировать модуль</string>
+    <string name="activate_desc">Для быстрой активации на главном экране сдвиньте пункт в любом направлении</string>
+    <string name="settings_module">Настройки</string>
+    <string name="settings_desc">Нажмите для открытия настроек</string>
+    <string name="warning_xposed_min_version">Этот модель требует новую версию xTension (%s) и поэтому не может быть активирован</string>
+    <string name="app_process">app_process</string>
+    <string name="xtensionlib">xTensionBridge.jar</string>
+</resources>

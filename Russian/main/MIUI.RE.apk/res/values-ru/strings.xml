@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Root Проводник</string>
+    <string name="root_explorer_ad">"
+Это защищенная папка, доступ к которой невозможно получить посредством стандартных диспетчеров файлов, используемых на телефонах без прав root. 
+
+Тем не менее, если вы имеете права root на вашем телефоне, доступ к этой папке можно получить, используя наш работающий в привилегированном режиме диспетчер файлов, который называется Root Explorer. 
+
+Пожалуйста, нажмите кнопку ниже, чтобы посмотреть Root Explorer в магазине приложений Android Market."</string>
+    <string name="data_folder_desc">Папка данных содержит данные, хранимые системой и сторонними приложениями, а также непосредственно сами приложения, которые были установлены.</string>
+    <string name="no_root_message_data">"Похоже, что не вы не имеете прав root на вашем телефоне. Эти права необходимы для получения доступа к защищенным файлам и папкам, таким как этот/эта. 
+
+Самым простым способом узнать, как получить права root на вашем телефоне - это набрать в поисковой строке Google \"root название_вашего_телефона\" и, просмотрев полученные результаты, найти подходящую инструкцию."</string>
+    <string name="no_root_message_system">"Похоже, что не вы не имеете прав root на вашем телефоне. Эти права необходимы в целях изменения или удаления защищенных файлов, таких как этот. 
+
+Самым простым способом узнать, как получить права root на вашем телефоне - это набрать в поисковой строке Google \"root название_вашего_телефона\" и, просмотрев полученные результаты, найти подходящую инструкцию."</string>
+    <string name="sqlite_advert">"Это база данных SQLite. Вы можете продолжить и просмотреть базу данных, используя встроенную программу для просмотра баз данных. 
+
+Тем не менее, если вы желаете отредактировать содержимое базы данных и воспользоваться более расширенными функциями, такими как фильтрация записей, тогда мы рекомендуем вам попробовать наш новый редактор SQLite, который уже можно приобрести в магазине приложений Android Market."</string>
+    <string name="dont_ask_again">Не показывать это снова</string>
+    <string name="classes_dex">classes.dex</string>
+    <string name="beta_expired">Срок действия настоящей бета-версии истек.</string>
+    <string name="beta_expires_1day">Срок действия бета-версии истекает через 1 день.</string>
+    <string name="beta_expires_2days">Срок действия бета-версии истекает через 2 дня.</string>
+    <string name="open_with_help">"
+Три вкладки, следующие за Помощью, содержат действия, которые можно выполнять над этим файлом.
+
+Вкладка Внутренние содержит внутренние функции Root Explorer, такие как программа для просмотра текста, программа для просмотра базы данных SQLite и программа для просмотра Zip-архивов.
+ 
+Вкладка Универсальные позволяет вам открыть файл в качестве универсального типа, такого как Текст, Музыка, Аудио или Изображение. 
+
+Вкладка Приложения позволяет вам выбрать определенное приложение, с помощью которого вы сможете открыть файл.
+ 
+Просто нажмите на одну из этих вкладок и выберите действие, которое вы хотите выполнить.
+ 
+Внизу каждого списка находится кнопка-флажок. Если вы хотите, чтобы выполняемое над файлом действие стало действием по умолчанию, убедитесь, что кнопка отмечена флажком."</string>
+    <string name="used">занято</string>
+    <string name="free">свободно</string>
+    <string name="read_only_paste">Вы не можете осуществить здесь операцию вставки, поскольку файловая система находится в режиме только чтение.</string>
+    <string name="read_only_move_selected">Выбранные элементы не могут быть перемещены, поскольку файловая система находится в режиме только чтение.</string>
+    <string name="read_only_delete_selected">Выбранные элементы не могут быть удалены, поскольку файловая система находится в режиме только чтение.</string>
+    <string name="restart_app_title">Перезапустить приложение</string>
+    <string name="restart_app_message">"Root Explorer пока еще не смог получить доступ к правам root. Из-за наличия проблем, связанных с Superuser, такая ситуация часто встречается в первый раз после запуска приложения, но, как правило, в дальнейшем приложение работает нормально.
+
+Нажмите OK и перезапустите приложение, чтобы попробовать снова. Убедитесь, что вы ответили правильно на приглашение Superuser."</string>
+    <string name="ok">OK</string>
+    <string name="root_failed">"Невозможно получить доступ к правам root. 
+
+Убедитесь, что вы получили разрешение на права root после поступления запроса от Superuser. Если такое разрешение было получено, тогда попробуйте получить права root еще раз (сделать re-root). 
+
+Root Explorer продолжит работу в режиме без прав root."</string>
+    <string name="root_failed_su_1">"Невозможно получить доступ к правам root, поскольку произошел сбой su, сопровождаемый следующим сообщением:
+
+"</string>
+    <string name="root_failed_su_2">"
+
+Убедитесь, что вы получили разрешение на права root, когда поступил запрос от Superuser. Если вы его получили, тогда попробуйте переустановить права root (сделать re-root). 
+
+Root Explorer продолжит работу в режиме без прав root."</string>
+    <string name="root_failed_title">Отказано в доступе к правам root</string>
+    <string name="search_cancelled">Поиск отменен</string>
+    <string name="market_problem">Возникла проблема с отображением Android Market. Пожалуйста, попробуйте еще раз.</string>
+    <string name="zip_no_sd">Карта памяти SD не установлена. Операция архивирования в формате .zip прервана.</string>
+    <string name="zip_name">Наименование zip-архива</string>
+    <string name="create_zip">Создание zip-архива</string>
+    <string name="zip_no_name">Не было введено ни одного имени. Zip-архив не создан</string>
+    <string name="cancel">Отмена</string>
+    <string name="tar_no_sd">Карта памяти SD не установлена. Операция архивирования в формате .tar прервана.</string>
+    <string name="tar_name_title">Наименование tar-архива</string>
+    <string name="create_tar">Создать tar-архив</string>
+    <string name="tar_compression">Сжатие tar-архива</string>
+    <string name="tar_what_compression">Какое сжатие вы хотели бы применить к этому tar-архиву?</string>
+    <string name="no_compression">Без сжатия</string>
+    <string name="tar_no_name">Не было введено ни одного имени. Tar-архив не создан</string>
+    <string name="paste">Вставить</string>
+    <string name="no_items_selected">Не выбрано ни одного элемента</string>
+    <string name="search_results_title">Результаты поиска</string>
+    <string name="no_sd_card">В настоящий момент карта памяти SD не установлена</string>
+    <string name="warning_title">Предупреждение</string>
+    <string name="path_not_found">не существует. Будет отображена первая существующая родительская папка.</string>
+    <string name="paste_failure_title">Сбой операции вставки</string>
+    <string name="paste_failure_msg1">Недостаточно свободного дискового пространства для завершения операции вставки.</string>
+    <string name="paste_failure_msg2">"Недостаточно свободного дискового пространства для завершения операции вставки. 
+
+Пожалуйста, обратите внимание, что информация о свободном дисковом пространстве, отображаемая Root Explorer (по сообщению linux) не всегда корректна на 100%!"</string>
+    <string name="link_failure_title">Сбой ссылки</string>
+    <string name="link_failure_msg1">"Произошел сбой операции над ссылкой, сопровождающийся следующим сообщением: 
+
+\""</string>
+    <string name="link_failure_msg2">Причиной этому могло стать то, что целевая файловая система не поддерживает символьные ссылки. Большинство карт памяти SD НЕ поддерживают ссылки.</string>
+    <string name="app_cant_open_file">Сопоставленное приложение не может открыть этот файл.</string>
+    <string name="no_associated_app">Не было найдено ни одного приложения, способного открыть этот тип файла.</string>
+    <string name="file_not_readable">Этот файл является нечитаемым для приложений, работающих в режиме без прав root. Если вы хотите его выбрать, скопируйте его сначала на карту памяти SD.</string>
+    <string name="package_installer_title">Установщик пакетов</string>
+    <string name="package_installer_msg">Это установщик пакетов. Какое действие вы хотели бы выполнить?</string>
+    <string name="install">Установка</string>
+    <string name="view">Просмотр</string>
+    <string name="script_file_title">Файл сценария</string>
+    <string name="script_file_msg">Это исполняемый файл сценария. Какое действие вы хотели бы выполнить?</string>
+    <string name="execute">Выполнение</string>
+    <string name="zip_cancelled">Zip отменен</string>
+    <string name="tar_cancelled">Tar отменен</string>
+    <string name="chown_worked">Изменение владельца/группы прошло успешно</string>
+    <string name="chown_failed">Изменение владельца/группы прошло безуспешно. Пожалуйста, обратите внимание, что некоторые файловые системы (такие как, например, карта памяти SD) не разрешают изменять владельца/группу.</string>
+    <string name="chmod_worked">Изменение разрешений прошло успешно</string>
+    <string name="chmod_failed">Изменение разрешений прошло безуспешно. Пожалуйста, обратите внимание, что некоторые файловые системы (такие как, например, карта памяти SD) не разрешают изменять разрешение.</string>
+    <string name="extract">Извлечь</string>
+    <string name="open_with">Открыть в</string>
+    <string name="extract_all">Извлечь все</string>
+    <string name="delete">Удалить</string>
+    <string name="rename">Переименовать</string>
+    <string name="copy">Копировать</string>
+    <string name="copy_noun">Копировать</string>
+    <string name="move">Переместить</string>
+    <string name="permissions">Разрешения</string>
+    <string name="properties">Свойства</string>
+    <string name="add_bookmark">Добавить закладку</string>
+    <string name="send">Отправить</string>
+    <string name="view_as_text">Открыть как текст</string>
+    <string name="open_in_text_editor">Открыть в текстовом редакторе</string>
+    <string name="zip_this_folder">Создать zip-архив</string>
+    <string name="set_as_home">Назначить домашней папкой</string>
+    <string name="zip_this_file">Создать zip-архив</string>
+    <string name="change_owner">Изменить владельца</string>
+    <string name="link_to_folder">Ссылка на эту папку</string>
+    <string name="link_to_file">Ссылка на этот файл</string>
+    <string name="read_only_edit">Вы не можете редактировать этот файл, поскольку файловая система доступна только для чтения.</string>
+    <string name="read_only_delete">невозможно удалить, поскольку файловая система доступна только для чтения.</string>
+    <string name="read_only_rename">невозможно переименовать, поскольку файловая система доступна только для чтения.</string>
+    <string name="read_only_move">невозможно переместить, поскольку файловая система доступна только для чтения.</string>
+    <string name="create_link">Создать ссылку</string>
+    <string name="read_only_permissions">невозможно изменить разрешения, поскольку файловая система доступна только для чтения.</string>
+    <string name="read_only_chown">невозможно изменить владельца, поскольку файловая система доступна только для чтения.</string>
+    <string name="gzip">Gzip</string>
+    <string name="completed">Завершен</string>
+    <string name="completed_msg1">был создан в папке</string>
+    <string name="completed_msg2">Нажмите \"Перейти к zip\", чтобы перейти в соответствующую папку или нажмите \"Остаться\", чтобы остаться в текущей папке.</string>
+    <string name="completed_msg3">Нажмите \"Перейти к tar\", чтобы перейти в соответствующую папку или нажмите \"Остаться\", чтобы остаться в текущей папке.</string>
+    <string name="stay">Остаться</string>
+    <string name="error">Ошибка</string>
+    <string name="go_to_zip">Перейти к zip</string>
+    <string name="go_to_tar">Перейти к tar</string>
+    <string name="zip_failed">Создание zip-архива завершилось неудачей в связи со следующей сбойной ситуацией:</string>
+    <string name="tar_failed">Создать tar-архив завершилось неудачей в связи со следующей сбойной ситуацией:</string>
+    <string name="please_wait">Пожалуйста, подождите...</string>
+    <string name="extracting_msg">Извлечение архива в</string>
+    <string name="extracting_file_msg">Извлечение файла в</string>
+    <string name="home_set_to">Статус домашней папки присвоен</string>
+    <string name="bookmark_saved">Закладка сохранена</string>
+    <string name="file">файл</string>
+    <string name="folder">папка</string>
+    <string name="delete_in_progress">Выполняется удаление...</string>
+    <string name="delete_file_prompt">Вы уверены, что хотите удалить этот файл?</string>
+    <string name="delete_folder_prompt">Вы уверены, что хотите удалить эту папку?</string>
+    <string name="yes">Да</string>
+    <string name="deleted">удалено</string>
+    <string name="delete_failed">Сбой при удалении</string>
+    <string name="no">Нет</string>
+    <string name="multi_delete_title">Множественное удаление</string>
+    <string name="multi_delete_prompt">Вы уверены, что хотите удалить выбранные элементы?</string>
+    <string name="already_exists_1">уже существует. Вы хотите продолжить и объединить содержимое папок?</string>
+    <string name="already_exists_2">уже существует. Хотите перезаписать?</string>
+    <string name="mount">Установить</string>
+    <string name="link">Ссылка</string>
+    <string name="paste_in_progress">Выполняется вставка...</string>
+    <string name="already_exists_3">уже существует. Какое действие вы хотели бы выполнить?</string>
+    <string name="merge">Объединение</string>
+    <string name="replace">Замена</string>
+    <string name="existing_item">Существующий элемент</string>
+    <string name="skip">Пропустить</string>
+    <string name="cannot_rename">Не могу переименовать в</string>
+    <string name="already_exists_4">поскольку такое имя уже существует</string>
+    <string name="no_name_entered">Не было введено ни одного имени. Элемент не переименован</string>
+    <string name="new_folder_success">Новая папка успешно создана.</string>
+    <string name="new_folder_failed">Сбой при создании новой папки.</string>
+    <string name="rename_success">Переименование прошло успешно.</string>
+    <string name="new_file_success">Новый файл успешно создан.</string>
+    <string name="new_file_failed">Сбой при создании нового файла.</string>
+    <string name="unknown">неизвестно</string>
+    <string name="calculating">вычисление...</string>
+    <string name="calc_failed">Не могу вычислить (доступ запрещен)</string>
+    <string name="new_folder">Новая папка</string>
+    <string name="preferences">Настройки</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="search">Поиск</string>
+    <string name="multi_select">Множ. выбор</string>
+    <string name="home">Домой</string>
+    <string name="refresh">Обновить</string>
+    <string name="new_file">Новый файл</string>
+    <string name="about">О программе</string>
+    <string name="exit">Выход</string>
+    <string name="new_folder_ro">Вы не можете создать здесь новую папку, поскольку файловая система доступна только для чтения.</string>
+    <string name="new_file_ro">Вы не можете создать здесь новый файл, поскольку файловая система доступна только для чтения.</string>
+    <string name="folder_no_name">Не было введено ни одного имени. Папка не создана.</string>
+    <string name="file_no_name">Не было введено ни одного имени. Файл не создан.</string>
+    <string name="permissions_link">Это ссылка. Разрешения будут изменены для целевого объекта</string>
+    <string name="owner_link">Это ссылка. Владелец/группа будут изменены для целевого объекта</string>
+    <string name="no_sd_return_root">Карта памяти SD в настоящее время не установлена. Возвращение в корневую папку.</string>
+    <string name="search_in_progress">Выполняется поиск</string>
+    <string name="searching_directory">Поиск директории</string>
+    <string name="back_to_cancel">Нажмите Назад, чтобы сделать отмену</string>
+    <string name="extract_completed">Извлечение завершено</string>
+    <string name="extracted_to">Файл(ы) извлечен(ы) в</string>
+    <string name="goto_extracted_msg">Нажмите \"Перейти к извлеченным файлам\", чтобы перейти в соответствующую папку или нажмите \"Остаться\", чтобы остаться с текущей папке.</string>
+    <string name="goto_extracted_title">Перейти к извлеченным файлам</string>
+    <string name="extract_encrypted_msg">Извините, невозможно сделать извлечение из зашифрованного архива.</string>
+    <string name="extract_encrypted_msg_2">Извините, невозможно извлечь зашифрованные файлы.</string>
+    <string name="root_explorer">Root Explorer</string>
+    <string name="root_folder">Корневая папка</string>
+    <string name="sd_card">Карта памяти SD</string>
+    <string name="open_bookmark">Открыть закладку</string>
+    <string name="delete_bookmark">Удалить закладку</string>
+    <string name="go_to_parent">Перейти в родительскую папку</string>
+    <string name="delete_bookmark_prompt">Вы уверены, что хотите удалить выбранную закладку?</string>
+    <string name="bookmark_deleted">Закладка удалена</string>
+    <string name="preparing_archive">Подготовка к архивированию....Нажмите Назад для отмены</string>
+    <string name="create_archive_folder_failed">Не могу создать папку назначения архива</string>
+    <string name="creating">Создание</string>
+    <string name="adding">Добавление</string>
+    <string name="cancelling_zip">Отмена zip</string>
+    <string name="data">(данные)</string>
+    <string name="reading_record">Чтение записей</string>
+    <string name="loading_data">Загрузка данных. Пожалуйста, подождите...</string>
+    <string name="select_send_method">Выберите способ отправки</string>
+    <string name="size">Размер</string>
+    <string name="bytes">Байт</string>
+    <string name="cant_calc">не могут произвести вычисление (доступ запрещен)</string>
+    <string name="truncated">досрочное завершение процесса вычислений</string>
+    <string name="truncated_msg1">Этот файл слишком велик для полного отображения, поэтому он отображен частично. Любые изменения не могут быть сохранены.</string>
+    <string name="truncated_msg2">Этот файл слишком велик для полного отображения, поэтому он отображен частично.</string>
+    <string name="save_changes">Сохранить изменения</string>
+    <string name="save_and_exit">Сохранить и выйти</string>
+    <string name="discard_changes">Отменить изменения</string>
+    <string name="no_changes_made">Не было сделано ни одного изменения</string>
+    <string name="file_saved">Файл сохранен. Резервная копия исходного файла сохранена как</string>
+    <string name="changes_discarded">Все несохраненные изменения были отменены</string>
+    <string name="save_changes_prompt">Вы сделали изменения в этом файле. Хотите их сохранить перед выходом?</string>
+    <string name="total">всего</string>
+    <string name="available">доступно</string>
+    <string name="internal">Внутренние</string>
+    <string name="general">Универсальные</string>
+    <string name="apps">Приложения</string>
+    <string name="text_viewer">Программа для просмотра текста</string>
+    <string name="sqlite_viewer">Программа для просмотра базы данных SQLite</string>
+    <string name="script_handler">Программа обработки сценариев Linux</string>
+    <string name="apk_handler">Программа обработки файлов с расширением .apk</string>
+    <string name="text_editor">Редактор текста</string>
+    <string name="zip_viewer">Программа для просмотра архива Zip</string>
+    <string name="tar_viewer">Программа для просмотра архива Tar</string>
+    <string name="rar_viewer">Программа для просмотра архива Rar</string>
+    <string name="open_default">Открыть действием по умолчанию</string>
+    <string name="open_image">Открыть как изображение</string>
+    <string name="open_audio">Открыть как аудио-файл</string>
+    <string name="open_video">Открыть как видео-файл</string>
+    <string name="open_text">Открыть как текст</string>
+    <string name="simple_list">Список отображен в упрощенном режиме</string>
+    <string name="detailed_list">Список отображен в расширенном режиме</string>
+    <string name="icon_list">Файлы отображены в виде иконок</string>
+    <string name="name_asc">Файлы отсортированы по имени в порядке возрастания</string>
+    <string name="name_desc">Файлы отсортированы по имени в убывающем порядке</string>
+    <string name="date_asc">Файлы отсортированы по дате в порядке возрастания</string>
+    <string name="date_desc">Файлы отсортированы по дате в убывающем порядке</string>
+    <string name="size_asc">Файлы отсортированы по размеру в порядке возрастания</string>
+    <string name="size_desc">Файлы отсортированы по размеру в убывающем порядке</string>
+    <string name="type_asc">Файлы отсортированы по типу в порядке возрастания</string>
+    <string name="folders_first">Папки всегда идут в списке первыми, за ними следуют остальные файлы</string>
+    <string name="folders_not_first">Папки смешаны с файлами в соответствии с выбранным порядком сортировки</string>
+    <string name="hidden_files_yes">Скрытые файлы и папки (начинаются с точки) отображаются</string>
+    <string name="hidden_files_no">Скрытые файлы и папки (начинаются с точки) НЕ отображаются</string>
+    <string name="thumbnails_yes">Эскизы изображений отображаются</string>
+    <string name="thumbnails_no">Эскизы изображений НЕ отображаются</string>
+    <string name="info_bar_1">Информационная строка показывает занятое/свободное место</string>
+    <string name="info_bar_2">Информационная строка показывает имя файловой системы</string>
+    <string name="zip_dest">В этой папке будут созданы новые zip/tar-файлы. Текущее значение</string>
+    <string name="extract_dest">Файлы архива будут извлечены в эту папку. Текущее значение</string>
+    <string name="home_folder_pref">Эта папка будет отображаться при запуске приложения. Текущее значение</string>
+    <string name="friendly_sizes_yes">Размеры файлов отображаются соответственно в Кб, Мб или Гб.</string>
+    <string name="friendly_sizes_no">Размеры файлов отображаются только в байтах.</string>
+    <string name="executed">выполнено</string>
+    <string name="script_output">Выходные данные сценария</string>
+    <string name="executing_script">Выполнение файла сценария...</string>
+    <string name="script_cancelled">Сценарий отменен</string>
+    <string name="db_locked_title">Заблокированная база данных</string>
+    <string name="db_locked_msg">В настоящее время эта база данных заблокирована другим процессом. Попробуйте снова через пару секунд.</string>
+    <string name="db_open_error">При открытии базы данных произошла ошибка.</string>
+    <string name="open_table">Открыть таблицу</string>
+    <string name="too_much_data">Слишком большой объем возвращаемых данных. Отображены только первые %d записей. Максимальное количество отображаемых записей может быть изменено в настройках.</string>
+    <string name="db_no_memory">При загрузке данных возникла нехватка памяти. Отображены не все записи.</string>
+    <string name="always_perform">Всегда выполнять выбранное действие для этого типа файла</string>
+    <string name="loading_apps">Загрузка приложений, пожалуйста, подождите...</string>
+    <string name="select_owner">Выберите нового владельца и группу, затем нажмите OK. Нажмите Отмена, чтобы оставить владельца и группу без изменений.</string>
+    <string name="owner">Владелец</string>
+    <string name="group">Группа</string>
+    <string name="no_tables">Не найдено ни одной таблицы.</string>
+    <string name="name_label">Имя:</string>
+    <string name="filesystem_label">Файловая система:</string>
+    <string name="remount_rw">Переустановить с правами на чтение и запись</string>
+    <string name="download_re">Загрузить Root Explorer</string>
+    <string name="zip">Zip</string>
+    <string name="select_all">все</string>
+    <string name="select_none">никто</string>
+    <string name="tar">Tar</string>
+    <string name="do_for_all">Применить это действие ко всем существующим элементам</string>
+    <string name="read">Чтение</string>
+    <string name="write">Запись</string>
+    <string name="others">Другое</string>
+    <string name="special_permissions">-------- Особые разрешения --------</string>
+    <string name="set_uid">Задать UID</string>
+    <string name="set_gid">Задать GID</string>
+    <string name="sticky">Липучка</string>
+    <string name="location_label">Размещение:</string>
+    <string name="permissions_label">Разрешения:</string>
+    <string name="size_label">Размер:</string>
+    <string name="timestamp_label">Время:</string>
+    <string name="owner_label">Владелец:</string>
+    <string name="group_label">Группа:</string>
+    <string name="mime_label">Тип:</string>
+    <string name="md5_label">MD5:</string>
+    <string name="linked_label">Связано с:</string>
+    <string name="search_for">Искать:</string>
+    <string name="internal_viewer">Встроенная программа просмотра</string>
+    <string name="sqlite_editor">Редактор SQLite</string>
+    <string name="mounted_ro">Права на чтение</string>
+    <string name="mounted_rw">Права на чтение/запись</string>
+    <string name="options">Параметры</string>
+    <string name="mount_ro">Права R/O</string>
+    <string name="mount_rw">Права R/W</string>
+    <string name="view_prefs">Настройки просмотра</string>
+    <string name="choose_view">Выбрать режим просмотра</string>
+    <string name="choose_sort">Выбрать порядок сортировки</string>
+    <string name="folders_first_title">Сначала папки</string>
+    <string name="show_hidden">Скрытые файлы</string>
+    <string name="show_thumbs">Эскизы изображений</string>
+    <string name="show_friendly">Размер файлов</string>
+    <string name="info_mode">Режим информационной панели</string>
+    <string name="view_mode">Режим просмотра</string>
+    <string name="sort_order">Порядок сортировки</string>
+    <string name="info_mode2">Режим информационной строки</string>
+    <string name="archive_prefs">Настройки архива</string>
+    <string name="zip_folder">Папка для создания Zip/Tar-архива</string>
+    <string name="extract_folder">Папка для извлечения архива</string>
+    <string name="general_prefs">Общие настройки</string>
+    <string name="home_folder">Домашняя папка</string>
+    <string name="simple_list2">Простой список</string>
+    <string name="detailed_list2">Подробный список</string>
+    <string name="icons">Иконки</string>
+    <string name="name">Имя</string>
+    <string name="date">Дата</string>
+    <string name="type">Тип</string>
+    <string name="name_desc2">Имя (по убыв.)</string>
+    <string name="date_desc2">Дата (по убыв.)</string>
+    <string name="size_desc2">Размер (по убыв.)</string>
+    <string name="show_space">Занятое/свободное место</string>
+    <string name="show_sys">Имена файловых систем</string>
+    <string name="special">Особые</string>
+    <string name="extract_failed">Возникла проблема при извлечении файлов из архива.</string>
+    <string name="parent_folder">Родительская папка</string>
+    <string name="copyright">Copyright © 2012 Speed Software Ltd</string>
+    <string name="rights">Все права защищены</string>
+    <string name="link_s">Ссылка</string>
+    <string name="copy_s">Копия</string>
+</resources>

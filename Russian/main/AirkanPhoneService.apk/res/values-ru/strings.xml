@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rcs_app_name">Удаленное управление</string>
+    <string name="rcs_phoneact_name">Менеджер удаленного управления телефоном</string>
+    <string name="rcs_service_start">Менеджер удаленного управления телефоном запущен</string>
+    <string name="app_name">Airkan</string>
+    <string name="phoneact_name">Телефонный менеджер Airkan</string>
+    <string name="mdnssdact_name">Менеджер mDNSSD</string>
+    <string name="service_start">Служба телефонного менеджера Airkan запущена</string>
+    <string name="listenservice_start">Служба менеджера mDNSSD запущена</string>
+</resources>

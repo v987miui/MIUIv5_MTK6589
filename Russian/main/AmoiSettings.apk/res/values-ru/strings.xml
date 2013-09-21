@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройки Amoi</string>
+    <string name="action_settings">AmoiSettings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="gf_title">Google-фреймворк</string>
+    <string name="unstall_gf_summary">Удалить фреймворк Google</string>
+    <string name="install_gf_summary">Установить фреймворк Google</string>
+    <string name="enter_stock_settings">Вход в стандартные настройки</string>
+    <string name="stock_settings">Стандартные настройки</string>
+    <string name="enter_schedule_power_settings">Вход в настройки расписания питания</string>
+    <string name="schedule_power_settings">Расписание питания</string>
+    <string name="preference_general_title">Общие настройки</string>
+    <string name="preferences_appinfo_title">Информация о приложении</string>
+    <string name="lite_title">Облегченная система</string>
+    <string name="lite_summary">Службы облегченной системы</string>
+    <string name="miui">MIUI-службы</string>
+    <string name="miui_summary">Облегченные MIUI-службы</string>
+    <string name="ringtone">Копировать мелодию</string>
+    <string name="ringtone_summary">Копировать мелодию с Card1 на Card2</string>
+    <string name="google">Google-службы</string>
+    <string name="google_summary">Облегченные Google-службы</string>
+    <string name="network">Network/Safe</string>
+    <string name="network_summary">Lite Network/Safe services</string>
+    <string name="other">Другое</string>
+    <string name="other_summary">Другие облегченные службы</string>
+    <string name="app_ver">Расширенные настройки Amoi v0.3</string>
+    <string name="app_copyright">"Автор: Slyder_Mi:
+http://weibo.com/slydermi"</string>
+</resources>

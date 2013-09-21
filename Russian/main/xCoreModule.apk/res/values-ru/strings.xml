@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xtension_core">Ядро</string>
+    <string name="orig_ota">Оригинальное OTA</string>
+    <string name="orig_ota_desc">Проверка OTA с сервера miui.com вместо сервера romz.bz</string>
+    <string name="holidays">Праздники</string>
+    <string name="holiday_select">Выбор праздников</string>
+    <string name="holiday_select_desc">Выбор праздников, которые будут отображаться в календаре</string>
+    <string name="holiday_original">Оригинальные</string>
+    <string name="holiday_russian">Русские</string>
+    <string name="holiday_ukrainian">Украинские</string>
+    <string name="module_name">Ядро</string>
+    <string name="module_desc">Управляет системой xTension</string>
+    <string name="settings_name">Настройки</string>
+    <string name="mb_name">МБ</string>
+    <string name="gb_name">ГБ</string>
+    <string name="ks_name">К/с</string>
+    <string name="ms_name">М/с</string>
+    <string name="international">Международная сборка</string>
+    <string name="reboot_desc">Необходима перезагрузка</string>
+    <string name="build_date">Дата сборки</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Статистика</string>
+    <string name="main_title">Анонимная информация об использовании</string>
+    <string name="main_desc">Анонимные отчеты позволяют нашим разработчикам отслеживать установки на различные устройства. Отсылаемая информация включает в себя тип устройства, версию прошивки и уникальный индификатор, отправка которого никаким образом не вредит Вашей конфиденциальности. Отчёт отсылается при каждой загрузке устройства. Просьба не удалять приложение</string>
+    <string name="main_optin">Включить отчеты</string>
+    <string name="main_btn_preview">Просмотр</string>
+    <string name="main_btn_save">Я понял</string>
+    <string name="main_show_stats">Статистика</string>
+    <string name="preview_id_lbl">Уникальный идентификатор</string>
+    <string name="preview_device_lbl">Устройство</string>
+    <string name="preview_version_lbl">Версия</string>
+    <string name="preview_done_btn">ОК</string>
+    <string name="preview_country_lbl">Страна</string>
+    <string name="preview_carrier_lbl">Оператор</string>
+    <string name="preview_miui_lbl">Версия MIUI</string>
+    <string name="preview_build_lbl">Собрано с</string>
+    <string name="preview_repo_lbl">Репозиторий перевода</string>
+    <string name="notification_ticker">Статистика собрана</string>
+    <string name="notification_title">Статистика</string>
+    <string name="notification_desc">Мы собираем анонимную статистику</string>
+    <string name="main_link">&lt;a href=http://kdeveloper.ru/stats/>Learn More&lt;/a></string>
+</resources>
