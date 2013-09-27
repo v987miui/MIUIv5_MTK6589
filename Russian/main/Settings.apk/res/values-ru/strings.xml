@@ -2361,6 +2361,8 @@ SIM/RUIM не поддерживает</string>
     <string name="wifi_menu_wfd">Wi-Fi-дисплей</string>
     <string name="wfd_settings_title">Wi-Fi-дисплей</string>
     <string name="wfd_settings_description">Вывод на экран при подключении к Wi-Fi</string>
+    <string name="wfd_enabler_title">Включение Wi-Fi-дисплея</string>
+    <string name="wfd_enable_wifi_diag_title">Вы можете использовать Wi-Fi-дисплей только тогда, когда включен Wi-Fi. Включить Wi-Fi?</string>
     <string name="wfd_menu_search">Поиск устройств</string>
     <string name="wfd_menu_searching">Поиск…</string>
     <string name="wfd_menu_teardown">Разъединить</string>

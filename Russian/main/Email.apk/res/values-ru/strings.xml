@@ -38,6 +38,8 @@
     <string name="mailbox_settings_action">Параметры синхронизации</string>
     <string name="mark_as_unread_action">Не прочитано</string>
     <string name="move_action">Переместить</string>
+    <string name="newer_action">Новее</string>
+    <string name="older_action">Старше</string>
     <string name="plus_cc_label">Добавить копию</string>
     <string name="add_cc_bcc_menu">Копия/скрытая копия</string>
     <string name="add_file_attachment">Прикрепить файл</string>
