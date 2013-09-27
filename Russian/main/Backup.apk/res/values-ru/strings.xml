@@ -16,7 +16,7 @@
     <string name="button_ok">ОК</string>
     <string name="backup_finished">Резервирование завершено</string>
     <string name="backup_report">Отчет</string>
-    <string name="backup_hint">Не выключайте устройство!</string>
+    <string name="backup_hint">Не выключайте телефон!</string>
     <string name="menu_patch_delete">Удаление резервных копий</string>
     <string name="delete">Удалить</string>
     <string name="cancel">Отмена</string>

@@ -1192,7 +1192,7 @@
     <string name="testing">Проверка</string>
     <string name="testing_phone_info">Информация о телефоне</string>
     <string name="testing_battery_info">Информация о батарее</string>
-    <string name="testing_sim_toolkit">Инструменты SIM-карты</string>
+    <string name="testing_sim_toolkit">Меню SIM</string>
     <string name="quick_launch_title">Быстрый запуск</string>
     <string name="quick_launch_summary">Настройка быстрых клавиш для запуска приложений</string>
     <string name="quick_launch_assign_application">Назначить приложение</string>

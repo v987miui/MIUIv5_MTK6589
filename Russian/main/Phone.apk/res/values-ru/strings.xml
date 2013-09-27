@@ -15,7 +15,7 @@
     <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
     <string name="confirm_device_info_full">На SD-карте закончилось место, запись сохранена</string>
     <string name="confirm_save_info_saved">Запись сохранена</string>
-    <string name="sim_toolkit">Инструменты SIM-карты</string>
+    <string name="sim_toolkit">Меню SIM</string>
     <string name="activity_not_found">Приложение не установлено</string>
     <string name="no_sim_card_inserted">Пожалуйста, вставьте SIM для запуска Меню SIM-карты</string>
     <string name="airplane_mode_on">Невозможно запустить Меню SIM-карты, пока включен режим полета</string>
