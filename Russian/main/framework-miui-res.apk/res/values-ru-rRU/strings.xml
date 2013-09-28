@@ -472,11 +472,6 @@ EEEE, d MMMM</string>
     <string name="app_notificaiton_on_notificationBar">Панель увед.</string>
     <string name="device_hongmi">Телефон Red Rice</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы ввели неверный пароль %d раз. После %d неудачных попыток, вам будет предложено разблокировать телефон с помощью аккаунта Xiaomi. Повторите через %d сек."</string>
-    <string name="days">%d дн.</string>
-    <string name="hours">%d ч.</string>
-    <string name="minutes">%d мин.</string>
-    <string name="reboot_confirm_title">Перезагрузить телефон?</string>
-    <string name="shutdown_confirm_title">Выключить телефон?</string>
     <string name="volume_ring_description">Мелодия &amp; уведомления</string>
     <string name="login_website_in_case_forget_password">Если Вы забыли пароль, посетите visit i.xiaomi.com для его сброса</string>
 </resources>
