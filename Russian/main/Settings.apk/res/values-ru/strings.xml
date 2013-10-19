@@ -3046,6 +3046,4 @@ Android File Transfer,
     <string name="flip_2_mute_summary">Доступ к дополнительным настройкам</string>
     <string name="level">G-сенсор</string>
     <string name="level_summary">Калибровка G-сенсора/акселерометра</string>
-    <string name="line_breaking_title">Оптимизация текста</string>
-    <string name="line_breaking_summary">Оптимизация отображения текста на китайском языке</string>
 </resources>
