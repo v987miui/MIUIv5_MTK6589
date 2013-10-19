@@ -151,6 +151,7 @@
     <string name="headsethook_name">Кнопка гарнит.</string>
     <string name="snnumber_name">Серийник</string>
     <string name="gyroscope_name">Гироскоп</string>
+    <string name="otg_name">OTG</string>
     <string name="sdcard">Карта памяти</string>
     <string name="sdcard_tips_success">SD-карта присутствует</string>
     <string name="sdcard_tips_failed">SD-карта отсутствует</string>
@@ -181,4 +182,9 @@
     <string name="gyroscope_azimuth">Ось-х:</string>
     <string name="gyroscope_pitch">Ось-y:</string>
     <string name="gyroscope_roll">Ось-z:</string>
+    <string name="otg">OTG</string>
+    <string name="otg_tips_success">Внешнее USB-устройство обнаружено</string>
+    <string name="otg_tips_failed">Внешнее USB-устройство не обнаружено</string>
+    <string name="otg_totalsize">Всего объем:</string>
+    <string name="otg_freesize">Свободно:</string>
 </resources>

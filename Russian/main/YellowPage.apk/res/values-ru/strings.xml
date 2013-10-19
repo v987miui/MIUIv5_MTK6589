@@ -15,7 +15,6 @@
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="provider_tag">Данные</string>
     <string name="all_numbers">Все номера</string>
-    <string name="correction">Коррекция</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
     <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
@@ -35,6 +34,7 @@
     <string name="menu_add_black_list">В черный список</string>
     <string name="menu_remove_black_list">Удалить из черного списка</string>
     <string name="menu_about_yellow_page">О странице</string>
+    <string name="menu_correct_yellow_page">Корректировка</string>
     <string name="menu_refresh">Обновить</string>
     <string name="confirm_to_add_blacklist">Заблокировать этот номер?</string>
     <string name="confirm_to_remove_blacklist">Разблокировать этот номер?</string>
@@ -51,6 +51,8 @@
     <string name="agree">Подтвердить</string>
     <string name="user_notice_identify_summary_format">"Определение неизвестных номеров работает с помощью онлайн-службы. Прочтите перед использованием: %1$s и %2$s"</string>
     <string name="user_notice_yp_detail_summary_format">"Часть информации будет загружена с помощью онлайн-службы. Прочтите: %1$s and %2$s, нажмите \"Подтвердить\", чтобы принять лицензионное соглашение"</string>
+    <string name="about_smart_antispam_summary">Об идентификации номеров</string>
+    <string name="about_telephone_fraud">Будьте в курсе мошенничества</string>
     <string name="title_about_yellow_page">О программе</string>
     <string name="payment_back">Назад</string>
     <string name="payment_failed_common_problems">Возникла проблема во время платежа</string>
@@ -97,4 +99,10 @@
     <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
     <string name="express_inquiry_data_owner">Отслеживание номера заказа предоставляется %s</string>
     <string name="scan">Сканировать</string>
+    <string name="remind_user_suspect_number_title">Остерегайтесь мошенничества</string>
+    <string name="remind_user_suspect_number_message">Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
+
+Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковских картах</string>
+    <string name="remind_another_time">Не вводите этот номер</string>
+    <string name="remind_user_confirm">OK</string>
 </resources>

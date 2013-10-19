@@ -151,8 +151,7 @@
     <string name="my_expect_update">Это то, чего я ожидал</string>
     <string name="get_update_error">Ошибка получения информации</string>
     <string name="active_xiaomi_account_title">Активация аккаунта</string>
-    <string name="active_xiaomi_account_msg">"Пожалуйста, перейдите на форум MIUI для активации Xiaomi-аккаунта:
-"</string>
+    <string name="active_xiaomi_account_msg">Пожалуйста, перейдите на форум MIUI для активации Xiaomi-аккаунта:</string>
     <string name="active_xiaomi_account">Активировать</string>
     <string name="update_comment_title">У меня есть что сказать</string>
     <string name="update_comment_hint">(опционально)</string>
@@ -169,4 +168,7 @@
     <string name="comment_upload_success">Отзыв отослан!</string>
     <string name="comment_invalid">Пожалуйста, нажмите на звездочку для определения рейтинга</string>
     <string name="comment_upload_not_logined">Пожалуйста, сперва войдите в аккаунт</string>
+    <string name="fourgrid_hint_text">Уважаемый разработчик. Благодарим вас за использование нашей прошивки. Расскажите, пожалуйста, что вы думаете о прошивке, этим вы поможете нам сделать MIUI лучше.</string>
+    <string name="fourgrid_notificaiont">Отображать в панели уведомлений</string>
+    <string name="fourgrid_no_notificaiont">Не отображать в панели уведомлений</string>
 </resources>

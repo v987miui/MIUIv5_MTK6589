@@ -210,6 +210,9 @@ d MMMM yyyy"</string>
     <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь SD-карту</string>
     <string name="ext_media_nomedia_notification_title">SD-карта извлечена</string>
     <string name="ext_media_nomedia_notification_message">SD-карта извлечена. Вставьте новую SD-карту</string>
+    <string name="ext_media_mountable_notification_title">USB подключено</string>
+    <string name="ext_media_mountable_notification_message">Запустить файл менеджер</string>
+    <string name="ext_media_safe_remove">Извлечь</string>
     <string name="screen_button_custom">Настройка расположения кнопок</string>
     <string name="recent_apps_key">Последние приложения</string>
     <string name="recent_apps_key_show">Последние приложения</string>
@@ -290,21 +293,6 @@ d MMMM yyyy"</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
     <string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
     <string name="screen_button_enabled_message">Нижние клавиши включены</string>
-    <string name="settings_toggle">Переключатели</string>
-    <string name="settings_notification_icon">Уведомления в панели состояния</string>
-    <string name="settings_screenshot_notification_disabled">Выкл. уведомления о скриншотах</string>
-    <string name="notification_icon_filter_settings">Уведомления</string>
-    <string name="notification_icon_filter_settings_loading">Загрузка, ожидайте</string>
-    <string name="notification_icon_filter">Настройка панели уведомлений</string>
-    <string name="notification_icon_filter_title">Скрыть уведомления</string>
-    <string name="notification_icon_filter_summary">Выключение этой опции позволит всем приложениям показывать уведомления в верхнем левом углу панели состояния</string>
-    <string name="notification_icon_filter_mode">Режим контроляe</string>
-    <string name="notification_icon_filter_mode_black_list">Черный список</string>
-    <string name="notification_icon_filter_mode_white_list">Белый список</string>
-    <string name="notification_icon_filter_show">Показывать уведомления в панеле состояния</string>
-    <string name="notification_icon_filter_hide">Не показывать уведомления в панеле состояния</string>
-    <string name="notification_icon_filter_list_empty_summary">Текущий список пуст</string>
-    <string name="notification_icon_filter_other_list">Список приложений</string>
-    <string name="notification_icon_filter_menu_item_show">Показывать уведомления этого приложения</string>
-    <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления этого приложения</string>
+    <string name="settings_statusbar_style">Настройки стиля</string>
+    <string name="center_clock_title">Часы по центру</string>
 </resources>

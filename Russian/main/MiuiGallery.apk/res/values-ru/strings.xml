@@ -92,7 +92,6 @@
     <string name="delete">Удалить</string>
     <string name="confirm_delete">Удалить выбранное?</string>
     <string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить выбранные альбомы и изображения? Изображений:%s. Альбомов: %s</string>
-    <string name="delete_fail_too_many_items">Ошибка удаления. Возможно, выбрано слишком много элементов</string>
     <string name="action_fail_unknown_error">Не удалось завершить операцию из-за неизвестной ошибки</string>
     <string name="add_to_cloud_fail_too_many_items">Ошибка. Возможно, выбрано слишком много элементов</string>
     <string name="comfirm_delete_current_album">Подтвержаете удаление текущего альбома?</string>
@@ -210,7 +209,6 @@
     <string name="open_sync_title">Пожалуйста, включите синхронизацию</string>
     <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
     <string name="open">Открыть</string>
-    <string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые изображения только тогда, когда есть Wi-Fi соединение</string>
     <string name="cloud_gallery_no_pictures">Нет изображений</string>
     <string name="no_network_connected">Нет подключения к сети</string>
     <string name="initial_cloud_text">Создавайте облачные альбомы и синхронизируйте изображения</string>
@@ -218,7 +216,6 @@
     <string name="storage_no_space">Не хватает места</string>
     <string name="add_to_cloud_album">Добавить в альбом</string>
     <string name="move_to_cloud_album">Переместить</string>
-    <string name="send_to_cloud_failed_message">Этот элемент не может быть добавлен в облачные альбомы</string>
     <string name="add_to_cloud_successfully_message">Добавлено в облачный альбом</string>
     <string name="add_to_cloud_space_full_message">Облачный альбом заполнен</string>
     <string name="add_to_cloud_local_space_full_message">Хранилище заполнено или недоступно</string>
@@ -233,17 +230,14 @@
     <string name="cannot_delete_sharer_photo">Невозможно удалить: %s. Файл загружен другим пользователем</string>
     <string name="share_album">Отправить альбом</string>
     <string name="share_album_qr_code">QR-код</string>
-    <string name="share_album_owner">Владелец</string>
     <string name="scan_qr_code_top_text">Облачный альбом</string>
     <string name="scan_qr_code_buttom_text">Сканируйте QR-код для просмотра этого альбома</string>
     <string name="request_qr_code">Получение QR-кода…</string>
     <string name="request_qr_code_failed">Ошибка получения QR-кода. Повторите еще раз</string>
-    <string name="retry_to_request_qr_code">Повтор</string>
     <string name="album_member">Пользователи %s</string>
     <string name="add_sharer">Добавить получателя</string>
     <string name="album_name">Имя альбома</string>
     <string name="already_apply_album">Открыть %1$s?</string>
-    <string name="can_modified">Разрешить получателю добавлять изображения</string>
     <string name="no_picture_or_video">Пусто</string>
     <string name="camera_view_none_message">Изображения будут отображаться здесь</string>
     <string name="none_picture">Нет изображений</string>
@@ -274,11 +268,10 @@
     <string name="contact_photo">Фото контакта</string>
     <string name="projection">Проекция</string>
     <string name="cut">Обрезать</string>
-    <string name="turn_left">Повернуть</string>
-    <string name="turn_right">Повернуть</string>
     <string name="more">Еще</string>
     <string name="deleting_files">Удаление файлов…</string>
-    <string name="bigscrren_slide_exit">Выйти из слайд-шоу через TV</string>
+    <string name="bigscreen_slide_exit">Выйти из слайд-шоу через TV</string>
+    <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения.</string>
     <string name="defalt_local_mobile">Мобильный</string>
     <string name="cloudfolder_name_reserved">Имя папки защищено</string>
     <string name="cloudfolder_contain_invalidate_char">Имя папки не должно содержать \"%s\"</string>
@@ -313,7 +306,6 @@
     <string name="set_screensaver_path_title">Слайд-шоу как скринсейвер</string>
     <string name="set_screensaver_path_message">Изображения из этого альбома будут показаны в качестве скринсейвера  через 5 секунд после выключения экрана. Это сообщение больше не будет показано.</string>
     <string name="set_screensaver_path_message_if_only_charging">Фото из этого альбома будут отображаться в режиме слайд-шоу во время зарядки</string>
-    <string name="screensaver_no_data">В этом альбоме нет изображений</string>
     <string name="slideshow_time_select_title">Установка времени слайд-шоу</string>
     <string name="slideshow_time_title">Время слайд-шоу</string>
     <string name="rename_failed">Не удалось переименовать</string>
@@ -378,10 +370,8 @@
     <string name="cannot_send_message">Не удается отправить сообщение</string>
     <string name="has_invalid_recipient">Недопустимые получатели: %1$s</string>
     <string name="to_count">Во всех: %d</string>
-    <string name="context_menu_view_contact">Посмотреть контакт</string>
     <string name="context_menu_add_contact">Добавить в контакты</string>
     <string name="context_menu_copy_notice">Текст скопирован</string>
-    <string name="context_menu_new_contact">Новый контакт</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="menu_view_contact">Просмотр контакта</string>
     <string name="invalid_recipient_message">Исправьте адреса получателей</string>
@@ -402,12 +392,9 @@
     <string name="exit_share_failed">Закрытие альбома \"%1$s\" не удалось</string>
     <string name="cancel_hint">Действие отменено</string>
     <string name="fail_hint">Ошибка действия</string>
-    <string name="modify_allow_hint">Добавление новых изображений в альбом разрешено</string>
-    <string name="modify_disallow_hint">Добавление новых изображений в альбом запрещено</string>
     <string name="kick_sharer">Удалить получателя</string>
     <string name="kick_sharer_successfully">Получатель удален</string>
     <string name="kick_sharer_failed">Ошибка удаления</string>
-    <string name="share_user_name">Имя</string>
     <string name="accept_or_deny">%1$s поделился с вами альбомом %2$s</string>
     <string name="accept">Принять</string>
     <string name="deny">Отклонить</string>
@@ -415,8 +402,6 @@
     <string name="operation_in_process">Загрузка…</string>
     <string name="operation_failed">Ошибка действия</string>
     <string name="operation_successful">Готово</string>
-    <string name="apply_successfully">Альбом принят</string>
-    <string name="fail_to_apply">Ошибка загрузки альбома</string>
     <string name="invalid_invition_url">Неверная ссылка</string>
     <string name="user_alias_self">Я</string>
     <string name="kick_owner_user_title">Удалить выбранного пользователя?</string>
@@ -500,5 +485,5 @@
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="scan_barcode_guide">Получение QR-кода альбома</string>
     <string name="confirm">ОК</string>
-    <string name="scan_barcode">Сканировать</string>
+    <string name="there_is_no_image">Нет изображений</string>
 </resources>

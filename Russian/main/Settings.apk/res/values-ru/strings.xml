@@ -154,7 +154,7 @@
     <string name="intent_sender_data_label">Данные:</string>
     <string name="intent_sender_sendbroadcast_text">Отправить запрос</string>
     <string name="intent_sender_action_label">Действие:</string>
-    <string name="intent_sender_startactivity_text">Запустить активити</string>
+    <string name="intent_sender_startactivity_text">Запустить действие</string>
     <string name="intent_sender_resource_label">Ресурс:</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
     <string name="proxy_settings_title">Настройки прокси-сервера</string>
@@ -2329,26 +2329,6 @@ SIM/RUIM не поддерживает</string>
     <string name="dolby_roomsize_low">Маленькая комната</string>
     <string name="dolby_roomsize_normal">Средняя комната</string>
     <string name="dolby_roomsize_high">Большая комната</string>
-    <string name="eq_flat">По умолчанию</string>
-    <string name="eq_rock">Рок</string>
-    <string name="eq_jazz">Джаз</string>
-    <string name="eq_pop">Поп</string>
-    <string name="eq_classical">Классика</string>
-    <string name="eq_rb">R &amp; B</string>
-    <string name="eq_hiphop">Хип-хоп</string>
-    <string name="eq_blues">Блюз</string>
-    <string name="eq_electronic">Электроник</string>
-    <string name="eq_country">Кантри</string>
-    <string name="eq_dance">Танцевальная</string>
-    <string name="eq_metal">Металл</string>
-    <string name="eq_delete">Удалить</string>
-    <string name="eq_delete_success">Удаление завершено</string>
-    <string name="eq_auto">Пользовательский</string>
-    <string name="eq_preset_create">Создать</string>
-    <string name="eq_preset_rename">Переименовать</string>
-    <string name="eq_preset_format">Свой %d</string>
-    <string name="eq_preset_hint">Пожалуйста, введите имя предустановки</string>
-    <string name="eq_preset_select">Выберите предустановку</string>
     <string name="dolby_eq_enter_alert_title">Dolby режим эквалайзера</string>
     <string name="dolby_eq_enter_alert_msg">Вы хотите открыть Dolby режим эквалайзера?</string>
     <string name="dirac_switch_title">Использовать \"MiSound\</string>
@@ -2421,6 +2401,7 @@ Android File Transfer,
     <string name="device_edit_title">Смена имени устройства</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
     <string name="device_name_usage_point">Имя вашего устройства, которое будет отображаться при различных соединениях</string>
+    <string name="device_name_input_error">Не удалось сохранить имя устройства. Пожалуйста, введите еще раз.</string>
     <string name="drive_mode">В автомобиле</string>
     <string name="enable_drive_mode">Включить режим управления</string>
     <string name="drive_mode_title">Задать голосовое уведомление</string>
@@ -2497,6 +2478,7 @@ Android File Transfer,
     <string name="xiaomi_money_service">Центр Mi-кредита</string>
     <string name="wifi_auto_connect">Автоподключение</string>
     <string name="nfc_category_title">NFC</string>
+    <string name="android_beam_tips">Убедитесь, что оба устройства соприкасаются, а затем нажмите на содержимое, которое вы хотите отправить.</string>
     <string name="wifi_share">Поделиться сетью</string>
     <string name="wifi_share_turn_on">Включено</string>
     <string name="wifi_share_turn_off">Отключено</string>
@@ -2527,7 +2509,6 @@ Android File Transfer,
     <string name="wifi_share_qrcode_title">Поделиться Wi-Fi</string>
     <string name="wifi_share_qrcode_summary">Используйте камеру MIUI для сканирования QR-кода</string>
     <string name="wifi_share_qrcode_finish">ОК</string>
-    <string name="antispam_quiet_mode_title">Тихий режим</string>
     <string name="oldman_mode_entry_title">Режим для пожилых</string>
     <string name="oldman_mode_entry_name">Настройки режима для пожилых</string>
     <string name="oldman_mode_settings_caption">Настройки режима для пожилых</string>
@@ -2564,6 +2545,13 @@ Android File Transfer,
     <string name="change_password">Изменить пароль</string>
     <string name="change_security_lock">Попробовать другой способ разблокировки</string>
     <string name="sync_wifi_only">Только Wi-Fi</string>
+    <string name="line_breaking_title">Оптимизация текста</string>
+    <string name="line_breaking_summary">оптимизировать нарушения пунктов абзаца</string>
+    <string name="nfc_se_route_title">Безопасные позиции элемента</string>
+    <string name="current_use_uicc_se">Использование безопасных элементов на SIM-карте</string>
+    <string name="current_use_ese">Использовать встроенные защищенные элементы</string>
+    <string name="open_wifi_connect_title">Подключение к сети %1$s</string>
+    <string name="open_wifi_connect_summary">Нажмите, чтобы настроить.</string>
     <string name="bluetooth_advanced_settings">Дополнительные настройки</string>
     <string name="bluetooth_profile_ftp">Передача файлов</string>
     <string name="bluetooth_ftp_profile_summary_use_for">Использовать для передачи файлов</string>
@@ -3039,12 +3027,13 @@ Android File Transfer,
     <string name="wifi_priority_label">Приоритет</string>
     <string name="change_data_conn_title">Изменить тип передачи данных</string>
     <string name="change_data_conn_message">%1$s не доступен, переключить на соединение по умолчанию на %2$s?</string>
+    <string name="sound_switch">Переключение звука</string>
     <string name="eng_mode">Инженерное меню</string>
     <string name="eng_mode_summary">Сбор информации, статистика, тонкие настройки всевозможных параметров телефона</string>
     <string name="factory_mode">Заводское меню</string>
     <string name="factory_mode_summary">Вход в режим заводских настроек и тестирование телефона</string>
     <string name="pach_number">Модифицированная версия</string>
-    <string name="pach_number_default">MIUI_13.09.06_ViNNNtalik_mod</string>
+    <string name="pach_number_default">MIUI_ViNNNtalik_Mod</string>
     <string name="homescreen">Виртуальная панель</string>
     <string name="homescreen2">Наэкранные клавиши</string>
     <string name="homescreen_summary">Вкл/выкл виртуальной панели кнопок Google</string>
@@ -3057,4 +3046,6 @@ Android File Transfer,
     <string name="flip_2_mute_summary">Доступ к дополнительным настройкам</string>
     <string name="level">G-сенсор</string>
     <string name="level_summary">Калибровка G-сенсора/акселерометра</string>
+    <string name="line_breaking_title">Оптимизация текста</string>
+    <string name="line_breaking_summary">Оптимизация отображения текста на китайском языке</string>
 </resources>

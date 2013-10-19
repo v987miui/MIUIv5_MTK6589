@@ -399,6 +399,7 @@
     <string name="mx_offline">Не в сети</string>
     <string name="mx_enable_popup_msg">Облачные сообщения позволят вам обмениваться сообщениями с другими пользователями MIUI через Интернет. Требуется SMS для активации. Активировать сейчас?</string>
     <string name="mx_enable_int_popup_msg">Облачные сообщения позволят вам обмениваться сообщениями с другими пользователями MIUI через Интернет. Требуется международное SMS для активации. Активировать сейчас?</string>
+    <string name="mx_activation_done">Облачные сообщения  включены</string>
     <string name="loading_mms">Загрузка MMS…</string>
     <string name="add_number_to_sender">Добавить номер в %s</string>
     <string name="unknown_num">Неизвестный номер</string>
@@ -449,4 +450,8 @@
     <string name="select_recipient">Выбор получателя</string>
     <string name="add_attachment">Прикрепить файл</string>
     <string name="send_sms">Отправить</string>
+    <string name="file_share_message_description">Я поделился с вами файлами</string>
+    <string name="addBlackList">В черный список</string>
+    <string name="confirm_add_blacklist_dialog_dspt">Заблокировать номер?</string>
+    <string name="batch_adding_progress_message">Добавление…</string>
 </resources>

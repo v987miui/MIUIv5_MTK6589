@@ -69,6 +69,8 @@
     <string name="preference_record_type_dialog_title">Выберите формат записи</string>
     <string name="preference_record_scenes_dialog_title">Выбор сцены для записи</string>
     <string name="preference_silent_mode">Выключать все звуки</string>
+    <string name="preference_enable_earpiece_title">Использовать приемник</string>
+    <string name="preference_enable_earpiece_summary">Использовать приемник для внешнего воспроизведения аудио</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
     <string name="duration_format_hour">%sч</string>
     <string name="duration_format_minute">%sм</string>
@@ -82,4 +84,5 @@
     <string name="view_list_of_recordings">Список записей</string>
     <string name="search_for_recordings_in_folders">Поиск записей в папках</string>
     <string name="back">Назад</string>
+    <string name="toast_uninstall_fileexplorer">Приложение \"Проводник\" не установлено</string>
 </resources>

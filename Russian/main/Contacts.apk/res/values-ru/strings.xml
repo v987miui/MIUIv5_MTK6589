@@ -1027,5 +1027,6 @@
     <string name="toast_copy_done">Копирование завершено</string>
     <string name="call_record_setting_miui">Настройки записи</string>
     <string name="activity_not_found_uri">Приложение не найдено</string>
-    <string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
+    <string name="accessibility_calllog_detail">детали вызова</string>
+    <string name="select_groups">Выбор групп</string>
 </resources>

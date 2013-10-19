@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Компас</string>
-    <string name="getting_location">Получение координат…</string>
+    <string name="getting_location">Калибровка…</string>
     <string name="cannot_get_location">Не удалось получить координаты</string>
     <string name="location_north">С.Ш.</string>
     <string name="location_south">Ю.Ш.</string>
@@ -19,13 +19,12 @@
     <string name="pressure_unit">гПа</string>
     <string name="altitude_unit">м</string>
     <string name="dialog_title_no_network">Сеть не найдена, подключитесь по Wi-Fi или включите мобильный трафик</string>
-    <string name="dialog_calibrat_altitude">Калибровка через Интернет</string>
+    <string name="dialog_calibrat_altitude">Калибровка...</string>
     <string name="latitude">Широта</string>
     <string name="longitude">Долгота</string>
     <string name="direction_north">С</string>
     <string name="direction_south">Ю</string>
     <string name="direction_east">В</string>
     <string name="direction_west">З</string>
-    <string name="guide_toast">"Удалитесь от возможных магнитных помех.
-Выполните калибровку, вращая телефон так, как показано на анимации"</string>
+    <string name="guide_toast">Выполните калибровку, вращая устройство так, как показано на анимации</string>
 </resources>

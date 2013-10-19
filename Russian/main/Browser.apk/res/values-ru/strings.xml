@@ -430,6 +430,10 @@
     <string name="tab_yellowpage">Категории</string>
     <string name="tab_quicklinks">Ссылки</string>
     <string name="pref_content_night_read_mode">Ночной режим</string>
+    <string name="general_set_default_browser_title">Браузер по-умолчанию</string>
+    <string name="general_set_default_browser_dialog_summary">Используйте MIUI-приложения для большей производительности</string>
+    <string name="general_set_default_browser_dialog_close_txt">Закрыть</string>
+    <string name="general_set_default_browser_dialog_ok_txt">Подтвердить</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Закрытие вкладок</string>
     <string name="url_hint">Введите URL</string>
     <string name="file_picker_new_folder">Новая папка</string>
@@ -491,6 +495,7 @@
     <string name="tab_closed">Вкладка закрыта</string>
     <string name="search_cancel">Отмена</string>
     <string name="search">Поиск</string>
+    <string name="clear_search_history">Очистить историю</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_sogou">Sogou</string>
     <string name="search_google">Google</string>
@@ -607,4 +612,14 @@
     <string name="download_dialog_file_length_lessthan1kb">Менее 1 Кб</string>
     <string name="download_dialog_default_path_invalid">Путь загрузки неправильный. Используется путь по умолчанию</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">SD-карта отключена</string>
+    <string name="bottom_bar_tabs_long_click_up_tip_txt">Слайд вверх для закрытия</string>
+    <string name="bottom_bar_tabs_long_click_down_tip_txt">Слайд вниз для закрытия</string>
+    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
+    <string name="user_defined_webpage">Добавить ссылку</string>
+    <string name="quicklink_user_define_webpage_title">Имя</string>
+    <string name="quicklink_user_define_webpage_url">URL</string>
+    <string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
+    <string name="quicklinks_most_visited">Добавить ссылку на стартовую страницу</string>
+    <string name="quicklinks_most_visited_subtitle">Добавление популярных сайтов на стартовую страницу</string>
+    <string name="quicklinks_group_default_subtitle">Пусто</string>
 </resources>

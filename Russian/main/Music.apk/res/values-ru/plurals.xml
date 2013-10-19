@@ -56,13 +56,17 @@
         <item quantity="other">Добавлено песен в плейлист: %d</item>
         <item quantity="one">Песня добавлена в плейлист</item>
     </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d песен удалено из плейлиста</item>
+        <item quantity="one">1 песня удалена из плейлиста</item>
+    </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">Добавлено песен в избранные: %d</item>
-        <item quantity="one">Песня добавлена в избранные</item>
+        <item quantity="other">Добавлено песен в плейлист: %d</item>
+        <item quantity="one">Песня добавлена в плейлист</item>
     </plurals>
     <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">Песен удалено из плейлиста: %d</item>
-        <item quantity="one">Песня удалена из плейлиста</item>
+        <item quantity="other">Песен удалено из избранного плейлиста: %d</item>
+        <item quantity="one">Песня удалена из избранного плейлиста</item>
     </plurals>
     <plurals name="Nsearch_results">
         <item quantity="other">%d результата(ов)</item>
