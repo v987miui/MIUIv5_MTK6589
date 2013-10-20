@@ -2401,7 +2401,7 @@ Android File Transfer,
     <string name="device_edit_title">Смена имени устройства</string>
     <string name="device_name_input_hint">Введите имя устройства</string>
     <string name="device_name_usage_point">Имя вашего устройства, которое будет отображаться при различных соединениях</string>
-    <string name="device_name_input_error">Не удалось сохранить имя устройства. Пожалуйста, введите еще раз.</string>
+    <string name="device_name_input_error">Не удалось сохранить имя устройства. Пожалуйста, введите еще раз</string>
     <string name="drive_mode">В автомобиле</string>
     <string name="enable_drive_mode">Включить режим управления</string>
     <string name="drive_mode_title">Задать голосовое уведомление</string>
@@ -2478,7 +2478,7 @@ Android File Transfer,
     <string name="xiaomi_money_service">Центр Mi-кредита</string>
     <string name="wifi_auto_connect">Автоподключение</string>
     <string name="nfc_category_title">NFC</string>
-    <string name="android_beam_tips">Убедитесь, что оба устройства соприкасаются, а затем нажмите на содержимое, которое вы хотите отправить.</string>
+    <string name="android_beam_tips">Убедитесь, что оба устройства соприкасаются, а затем нажмите на содержимое, которое вы хотите отправить</string>
     <string name="wifi_share">Поделиться сетью</string>
     <string name="wifi_share_turn_on">Включено</string>
     <string name="wifi_share_turn_off">Отключено</string>
@@ -2546,12 +2546,12 @@ Android File Transfer,
     <string name="change_security_lock">Попробовать другой способ разблокировки</string>
     <string name="sync_wifi_only">Только Wi-Fi</string>
     <string name="line_breaking_title">Оптимизация текста</string>
-    <string name="line_breaking_summary">оптимизировать нарушения пунктов абзаца</string>
+    <string name="line_breaking_summary">Оптимизировать нарушения пунктов абзаца</string>
     <string name="nfc_se_route_title">Безопасные позиции элемента</string>
     <string name="current_use_uicc_se">Использование безопасных элементов на SIM-карте</string>
     <string name="current_use_ese">Использовать встроенные защищенные элементы</string>
     <string name="open_wifi_connect_title">Подключение к сети %1$s</string>
-    <string name="open_wifi_connect_summary">Нажмите, чтобы настроить.</string>
+    <string name="open_wifi_connect_summary">Нажмите, чтобы настроить</string>
     <string name="bluetooth_advanced_settings">Дополнительные настройки</string>
     <string name="bluetooth_profile_ftp">Передача файлов</string>
     <string name="bluetooth_ftp_profile_summary_use_for">Использовать для передачи файлов</string>
